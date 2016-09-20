@@ -78,4 +78,7 @@ for (MCMC_idx in 1:iter_MCMC){
   print(MCMC_idx)
 }
 
+color = c("red","blue","green","black","darkgoldenrod","burlywood","aquamarine","chocolate")
+plot(data,col=color[Z])
+
 
