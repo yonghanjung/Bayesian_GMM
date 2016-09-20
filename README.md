@@ -1,4 +1,4 @@
-# Bayesian_GMM
+# Bayesian_GMM (09/20/16)
 
 ## Introduction 
 
